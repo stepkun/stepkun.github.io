@@ -1,2 +1,2 @@
 # stepkun.github.io
-Website
+slint demos: https://stepkun.github.io/slint-demos/
