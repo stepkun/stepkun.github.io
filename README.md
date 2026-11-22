@@ -1,2 +1,1 @@
-# stepkun.github.io
-slint demos: https://stepkun.github.io/slint-demos/
+- [slint demos](/slint-demos/)
